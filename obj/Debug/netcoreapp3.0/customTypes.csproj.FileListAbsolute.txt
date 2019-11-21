@@ -1,0 +1,11 @@
+/Users/dylpickle/Workspace/csharp/exercises/customTypes/bin/Debug/netcoreapp3.0/customTypes
+/Users/dylpickle/Workspace/csharp/exercises/customTypes/bin/Debug/netcoreapp3.0/customTypes.deps.json
+/Users/dylpickle/Workspace/csharp/exercises/customTypes/bin/Debug/netcoreapp3.0/customTypes.runtimeconfig.json
+/Users/dylpickle/Workspace/csharp/exercises/customTypes/bin/Debug/netcoreapp3.0/customTypes.runtimeconfig.dev.json
+/Users/dylpickle/Workspace/csharp/exercises/customTypes/bin/Debug/netcoreapp3.0/customTypes.dll
+/Users/dylpickle/Workspace/csharp/exercises/customTypes/bin/Debug/netcoreapp3.0/customTypes.pdb
+/Users/dylpickle/Workspace/csharp/exercises/customTypes/obj/Debug/netcoreapp3.0/customTypes.csprojAssemblyReference.cache
+/Users/dylpickle/Workspace/csharp/exercises/customTypes/obj/Debug/netcoreapp3.0/customTypes.AssemblyInfoInputs.cache
+/Users/dylpickle/Workspace/csharp/exercises/customTypes/obj/Debug/netcoreapp3.0/customTypes.AssemblyInfo.cs
+/Users/dylpickle/Workspace/csharp/exercises/customTypes/obj/Debug/netcoreapp3.0/customTypes.dll
+/Users/dylpickle/Workspace/csharp/exercises/customTypes/obj/Debug/netcoreapp3.0/customTypes.pdb
